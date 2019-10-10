@@ -1,0 +1,86 @@
+#!/system/xbin/bash
+# JANGAN DI JUAL NTAR GW DI MARAHIN EMAK
+# JANGAN DI RECOD
+#DUERR MEMEK
+white='\033[37;1m'
+purple='\033[35;1m'
+blue='\033[34;1m'
+yellow='\033[33;1m'
+green='\033[32;1m'
+red='\033[31;1m'
+cyan='\033[36;1m'
+name='BUATAN LUKMAN'
+echo
+clear
+=========================================================
+
+echo  LUKMAN NURUL HAKIM IS ME SISTEM ANDROID
+
+===========================================================
+echo  YUTUBE |https://m.youtube.com/channel/UCFIOXdX7P0uyqjS7Bvz4HUg
+
+===============================================================
+
+echo  | Luman
+
+==============================================================÷
+
+
+echo   WA|088806187431
+
+
+===============================================================
+echo $cy ""
+read -p "your name mastah: " LUKMAN NURUL HAKIM
+clear
+sh fck
+sleep 1
+echo ""
+echo "           WELCOME $gg MASTAH CYBER" | lolcat
+echo $cy
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo $gr ""
+sleep 1
+exit
+}
+echo ""
+echo $cy "__________________________________________________"
+echo "{1} kali linux" | lolcat
+echo $cy "__________________________________________________"
+echo "{2} hack kamera" | lolcat
+echo $cy "__________________________________________________"
+echo "{0} keluar / tekan CTRL+C " | lolcat
+echo $cy "__________________________________________________"
+echo $gr ""
+read -p "[root@$name:~# " pill
+
+if [ $pill = 1 ] || [ $pill = 1 ]
+then
+clear
+echo $gr "install linux\ninstall bahan bahan dulu ya"
+cd
+pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/                       >
+fi
+
+if
+[ $pill = 2 ] || [ $pill = 2 ]
+then
+clear
+echo $gr "install bahan bahan dulu ya cok"
+cd
+pkg install php
+pkg install openssh
+git clone github.com/thelinuxchoice/saycheese
+echo $gr "oke install selesai\ncara buka nya ketik\ncd\ncd saycheese\nsh saycheese.sh"
+fi
+
+if
+[ $pill = 0 ] || [ $pill = 0 ]
+then
+clear
+echo $gr ""
+sleep 1
+exit
+fi
